@@ -25,7 +25,7 @@ function setup() {
 	stoneObj=new stone(235,420,30); 
 
 	mango1=new mango(1100,100,30);
-  mango2=new mango(1170,130,30);
+        mango2=new mango(1170,130,30);
 	mango3=new mango(1010,140,30);
 	mango4=new mango(1000,70,30);
 	mango5=new mango(1100,70,30);
